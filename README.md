@@ -1,0 +1,2 @@
+# RYMLocation
+location ejer2
